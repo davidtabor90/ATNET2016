@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 namespace SharedLibs.DataContracts
 {
     [DataContract]
-    public class Basket : DTO
+    public class BasketItem : DTO
     {
         /// <summary>
         /// Identifier
